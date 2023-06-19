@@ -11,8 +11,8 @@ CodeVault is a simple web application that allows users to search for coding que
 
 To run the CodeVault web application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/CodeVault.git`
-2. Navigate to the project directory: `cd CodeVault`
+1. Clone the repository: `git clone https://github.com/2912anushka/Code_Vault.git`
+2. Navigate to the project directory: `cd Code_Vault`
 3. Open the index.html file in a web browser.
 
 ## Dependencies
